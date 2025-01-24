@@ -1,6 +1,16 @@
 ---
-title: Welcome to Quartz
+longform:
+  format: scenes
+  title: Temporal Disarray
+  workflow: Default Workflow
+  sceneFolder: /
+  scenes:
+    - Foreword
+    - Intro
+  sceneTemplate: templates/chapter.md
+  ignoredFiles:
+    - undefined
+    - undefined
+    - 
+    - undefined
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
