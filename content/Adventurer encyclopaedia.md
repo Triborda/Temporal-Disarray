@@ -1,5 +1,5 @@
 ---
-title: index
+title: Adventurer encyclopaedia
 draft: false
 tags:
 ---
