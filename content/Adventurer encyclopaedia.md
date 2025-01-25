@@ -8,3 +8,4 @@ tags:
 >As the culture of writing had wilted into a mini dark age before the great writer [[Death]] approached me to rejuvenate the art, any events occurring before [[The Renaissance]] may be inaccurate
 
 \- [[Korg Dumas]], 512AD
+___
