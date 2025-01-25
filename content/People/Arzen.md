@@ -3,5 +3,5 @@ title: Arzen
 draft: false
 tags:
 ---
-**Arzen** is one of [[The Adventurers]]. 
+**Arzen** is one of [[The Adventurers]]. A [[Barbarian]], [[Sorcerer]], [[Rogue]].
 ___
