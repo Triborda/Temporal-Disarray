@@ -3,5 +3,5 @@ title: Rogue
 draft: false
 tags:
 ---
-**Rogue** is a profession
+**Rogue** is a [[profession]]
 ___
