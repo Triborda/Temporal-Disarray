@@ -3,5 +3,5 @@ title: sea
 draft: false
 tags:
 ---
-A **sea** is a large body of water separating [[continents]]. [[Nianagand]] has seven major seas; [[Midriff Sea]], [[Jarandan Ocean]].
+A **sea** is a large body of water separating islands from the mainland. [[Nianagand]] has two major seas: the [[Midriff Sea]] and the [[Jarandan Ocean]].
 ___
